@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"/>
+    <item android:id="@+id/saveVacation"
+        android:title="@string/save_vacation"/>
+    <item android:id="@+id/deleteVacation"
+        android:title="@string/delete_vacation"/>
+    <item android:id="@+id/share"
+        android:title="Share"/>
+    <item android:id="@+id/notifyStart"
+        android:title="@string/notify_start"/>
+    <item android:id="@+id/notifyEnd"
+        android:title="@string/notify_end"/>
+</menu>

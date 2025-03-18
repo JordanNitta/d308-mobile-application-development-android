@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VacationScheduler</string>
+    <string name="home">Home</string>
+    <string name="excursion">Excursion</string>
+    <string name="vacation">Vacation</string>
+    <string name="vacation_title">vacation title</string>
+    <string name="title">Title:</string>
+    <string name="hotel">Hotel:</string>
+    <string name="enter_hotel_or_place">Enter hotel or place</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End Date:</string>
+    <string name="welcome_to_my_vacation_scheduler">Welcome To My Vacation Scheduler!</string>
+    <string name="end_date_must_be_after_start_date">End date must be after start date</string>
+    <string name="title_required">Title Required</string>
+    <string name="hotel_required">Hotel Required</string>
+    <string name="delete_vacation">Delete Vacation</string>
+    <string name="save_vacation">Save Vacation</string>
+    <string name="notify_start">Notify Start</string>
+    <string name="notify_end">Notify End</string>
+    <string name="delete_excursion">Delete Excursion</string>
+    <string name="save_excursion">Save Excursion</string>
+    <string name="enter_vacation_scheduler">Enter Vacation Scheduler</string>
+</resources>
